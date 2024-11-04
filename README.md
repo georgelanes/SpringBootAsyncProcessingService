@@ -186,7 +186,7 @@ docker-compose up -d
 ## Licença
 Este projeto está sob a licença [MIT](LICENSE).
 
-Link do Projeto: [https://github.com/seu-usuario/async-processing](https://github.com/seu-usuario/async-processing)
+Link do Projeto: [https://github.com/georgelanes/SpringBootAsyncProcessingService](https://github.com/georgelanes/SpringBootAsyncProcessingService)
 
 ## Agradecimentos
 - [Spring Boot](https://spring.io/projects/spring-boot)
